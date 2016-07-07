@@ -1,3 +1,3 @@
 # Git Test
 
-testing out git for fun and profit!
+run the git fast, run the run the git fast
